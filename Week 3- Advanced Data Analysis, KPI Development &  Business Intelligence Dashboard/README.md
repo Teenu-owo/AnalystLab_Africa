@@ -19,5 +19,15 @@ An interactive Power BI dashboard built for a retail Superstore dataset, giving 
 
 # Tools used: Microsoft Power BI, Power Query, DAX
 
+# Files in This Repository
+* Superstore Advanced Analysis Dashboard.pdix - Power BI File
+* Superstore Advanced Analysis Dashboard.png - Power Bi Dashboard image
+* Project_Continuity_Summary_Report.pdf - Project continuity summary and advanced analysis
+* Business Insights and Recommendation Report.pdf - Business insights and recommendations
+* DAX- Calculated Metrics Report.pdf - DAX measure formulas and explanations
+* Advanced Business Analytics Report.pdf - The Advanced analysis
+* README.md - This File
+
+
 ## About Me
 Tinuola - Data Analytics Intern, AnalystLab Africa
